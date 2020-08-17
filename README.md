@@ -1,7 +1,6 @@
-# main-smoothies
+# Smoothify
 
-> A Vue.js project
-
+> A Smoothies Project built with Vue.js and Firebase
 ## Build Setup
 
 ``` bash
